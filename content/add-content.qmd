@@ -1,5 +1,5 @@
 ---
-title: Customize
+title: Customize NEW TITLE
 ---
 
 ## Edit and add your pages
